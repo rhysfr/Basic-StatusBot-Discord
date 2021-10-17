@@ -1,5 +1,7 @@
 Very basic Python Status Bot for Discord. 
 
+To edit status go into the main.py file and change where it says Status. 
+
 ---------------------------------------------
 For Playing status: await client.change_presence(activity=discord.Game('#'))
 
