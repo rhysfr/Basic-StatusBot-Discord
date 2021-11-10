@@ -1,3 +1,11 @@
+#############################################################################
+#                                                                           #                                                                                                            #                                                                          #
+# Basic Status Bot, Based on Discord.py                                     #
+# Created by Rhys!                                                          #
+#                                                                           #
+#############################################################################
+
+
 import discord # importing discord module
 from discord.ext import commands
 
