@@ -6,6 +6,10 @@
 #############################################################################
 
 
+# Make any changes you want, no credits needed!
+# Basic Python Knowledge Needed
+
+
 import discord # importing discord module
 from discord.ext import commands
 
@@ -18,3 +22,4 @@ async def on_ready():
     print('Connected to bot: {}'.format(client.user.name))  # Console log
 
 client.run('') # put your token here
+
