@@ -3,11 +3,11 @@ Very basic Python Status Bot for Discord.
 To edit status go into the main.py file and change where it says Status. 
 
 ---------------------------------------------
-For Playing status: await client.change_presence(activity=discord.Game('#'))
+For Playing status: <strong>await client.change_presence(activity=discord.Game('#'))</strong>
 
-For Streaming status: await client.change_presence(activity=discord.Streaming(name='#', url='#'))
+For Streaming status: <strong>await client.change_presence(activity=discord.Streaming(name='#', url='#'))</strong>
 
-For Listening status: await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name='#'))
+For Listening status: <strong>await client.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name='#'))</strong>
 
 --------------------------------------------
 
